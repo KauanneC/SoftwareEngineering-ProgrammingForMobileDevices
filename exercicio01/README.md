@@ -1,16 +1,9 @@
-# flutter_application_1
+# Programação para dispositivos Móveis
 
-A new Flutter project.
+## Exercício 1
+Criando uma Aplicação Simples
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Crie uma aplicação Flutter que exiba uma tela com um texto centralizado e um botão. Quando o botão for pressionado, o texto centralizado deve mudar para uma mensagem diferente.
+ - Crie um novo projeto Flutter usando o comando flutter create nome_do_projeto.
+ - Edite o arquivo lib/main.dart para exibir um Scaffold com um Center contendo um Text e um ElevatedButton.
+ - Use um StatefulWidget para gerenciar o texto exibido no Text e alterá-lo quando o botão for pressionado.
