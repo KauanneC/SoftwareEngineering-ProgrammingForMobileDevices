@@ -1,7 +1,4 @@
-# Programação para dispositivos Móveis
-
-## Exercício 1
-Criando uma Aplicação Simples
+## Exercício 1: Criando uma Aplicação Simples
 
 Crie uma aplicação Flutter que exiba uma tela com um texto centralizado e um botão. Quando o botão for pressionado, o texto centralizado deve mudar para uma mensagem diferente.
  - Crie um novo projeto Flutter usando o comando flutter create nome_do_projeto.
